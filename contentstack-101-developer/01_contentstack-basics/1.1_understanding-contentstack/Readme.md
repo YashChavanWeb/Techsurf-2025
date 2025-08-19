@@ -30,3 +30,39 @@
 - Mattel
 
 ---
+
+# Complete Content Lifecycle
+
+![alt text](images/image.png)
+
+---
+
+# Tools of Contentstack
+
+### 1. **Launch**
+
+- Hosting options that make content deployment straightforward\
+  \
+   ![alt text](images/image-3.png)
+
+---
+
+### 2. **Personalize**
+
+- Tailor content to specific audiences\
+  \
+   ![alt text](images/image-1.png)
+
+---
+
+### 3. **Automate**
+
+- Visual workflow builder for implementing automation of CMS processes\
+  \
+   ![alt text](images/image-2.png)
+
+---
+
+### 4. **Visual Builder**
+
+- Visually edit and manage content

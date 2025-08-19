@@ -12,11 +12,11 @@
 
 ### Folder Navigation
 
-- [**01_contentstack-basics**](#)
+- [**01_contentstack-basics**](https://github.com/YashChavanWeb/Techsurf-2025/tree/main/contentstack-101-developer/01_contentstack-basics)
 
-  - [1.1_understanding-contentstack](#)
-  - [1.2_understanding-composable](#)
-  - [1.3_big-picture-architecture](#)
+  - [1.1_understanding-contentstack](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.1_understanding-contentstack/Readme.md)
+  - [1.2_understanding-composable](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.2_understanding-composable/Readme.md)
+  - [1.3_big-picture-architecture](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.3_big-picture-architecture/Readme.md)
 
 - [**02_models-and-environments**](#)
 - [**03_personalization-stack**](#)

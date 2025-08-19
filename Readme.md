@@ -12,19 +12,26 @@
 
 ### Folder Navigation
 
-- [**01_contentstack-basics**](https://github.com/YashChavanWeb/Techsurf-2025/tree/main/contentstack-101-developer/01_contentstack-basics)
+* **01\_contentstack-basics** - 
+  [Link](https://github.com/YashChavanWeb/Techsurf-2025/tree/main/contentstack-101-developer/01_contentstack-basics)
 
-  - [1.1_understanding-contentstack](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.1_understanding-contentstack/Readme.md)
-  - [1.2_understanding-composable](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.2_understanding-composable/Readme.md)
-  - [1.3_big-picture-architecture](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.3_big-picture-architecture/Readme.md)
+  * 1.1\_understanding-contentstack - 
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.1_understanding-contentstack/Readme.md)
 
-- [**02_models-and-environments**](#)
-- [**03_personalization-stack**](#)
-- [**04_automation-hub**](#)
-- [**05_marketplace-apps**](#)
-- [**06_launch-platform**](#)
-- [**07_brand-kit**](#)
-- [**08_hands-on**](#)
-- [**09_project-kickstart**](#)
+  * 1.2\_understanding-composable - 
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.2_understanding-composable/Readme.md)
+
+  * 1.3\_big-picture-architecture - 
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.3_big-picture-architecture/Readme.md)
+* **02\_models-and-environments**
+* **03\_personalization-stack**
+* **04\_automation-hub**
+* **05\_marketplace-apps**
+* **06\_launch-platform**
+* **07\_brand-kit**
+* **08\_hands-on**
+* **09\_project-kickstart**
+
+
 
 ---

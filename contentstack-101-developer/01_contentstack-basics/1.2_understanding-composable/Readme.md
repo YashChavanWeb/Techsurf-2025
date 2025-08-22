@@ -21,6 +21,23 @@ Monolithic suites struggle to keep up with the rapidly evolving demands of today
 
 ---
 
+## Simple Example to Understand Composable & DXP
+
+Imagine an old-fashioned television—the all-in-one box that housed every component: screen, tuner, speaker, circuitry. If a part broke or needed upgrading, you had to replace or repair the entire unit—a monolithic setup with no flexibility.
+
+Now picture that the television has been reimagined as a modular system: the screen, media player, speakers, and other components are separate modules. You can mix and match them from various manufacturers, as long as they connect through the same standardized interface (APIs).
+
+![alt text](images/image-5.png)
+Want to add a gaming console or smart device later? Just plug it in—the modular design makes expansion easy. That’s the essence of _composable_.
+
+![alt text](images/image-6.png)
+
+Translating this into digital experience platforms (DXPs): rather than being locked into a rigid, monolithic system, a composable DXP lets you assemble an ecosystem of connected services—such as content delivery, personalization, e-commerce, analytics, and more—into a unified yet flexible and scalable digital experience.
+
+![alt text](images/image-7.png)
+
+---
+
 ## **MACH** Principles
 
 - **Microservices**

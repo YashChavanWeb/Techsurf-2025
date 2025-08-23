@@ -12,18 +12,25 @@
 
 ### Folder Navigation
 
-* **01\_contentstack-basics** - 
-  [Link](https://github.com/YashChavanWeb/Techsurf-2025/tree/main/contentstack-101-developer/01_contentstack-basics)
+* **01\_contentstack-basics** -
 
-  * 1.1\_understanding-contentstack - 
+  * 1.1\_understanding-contentstack -
     [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.1_understanding-contentstack/Readme.md)
 
-  * 1.2\_understanding-composable - 
+  * 1.2\_understanding-composable -
     [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.2_understanding-composable/Readme.md)
 
-  * 1.3\_big-picture-architecture - 
+  * 1.3\_big-picture-architecture -
     [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.3_big-picture-architecture/Readme.md)
-* **02\_models-and-environments**
+
+* **02\_models-and-environments** -
+
+  * 2.1\_organization-and-stack -
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/02_models-and-environments/2.1_organization-and-stack/Readme.md)
+
+  * 2.2\_content-model-content-types -
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/02_models-and-environments/2.2_content-model-content-types/Readme.md)
+
 * **03\_personalization-stack**
 * **04\_automation-hub**
 * **05\_marketplace-apps**

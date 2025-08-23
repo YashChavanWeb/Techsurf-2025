@@ -23,6 +23,7 @@
   * 1.3\_big-picture-architecture -
     [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/01_contentstack-basics/1.3_big-picture-architecture/Readme.md)
 
+
 * **02\_models-and-environments** -
 
   * 2.1\_organization-and-stack -
@@ -30,6 +31,22 @@
 
   * 2.2\_content-model-content-types -
     [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/02_models-and-environments/2.2_content-model-content-types/Readme.md)
+
+  * 2.3\_content-entries -
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/02_models-and-environments/2.3_content-entries/Readme.md)
+
+  * 2.4\_publishing-entry -
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/02_models-and-environments/2.4_publishing-entry/Readme.md)
+
+  * 2.5\_assets -
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/02_models-and-environments/2.5_assets/Readme.md)
+
+  * 2.6\_live-preview -
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/02_models-and-environments/2.6_live-preview/Readme.md)
+
+  * 2.7\_environments -
+    [Link](https://github.com/YashChavanWeb/Techsurf-2025/blob/main/contentstack-101-developer/02_models-and-environments/2.7_environments/Readme.md)
+
 
 * **03\_personalization-stack**
 * **04\_automation-hub**

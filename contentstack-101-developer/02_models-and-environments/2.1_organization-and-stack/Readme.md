@@ -1,3 +1,7 @@
+# Organization 
+- highest level where everything is managed right from users 
+
+
 # Stack
 
 - A centralized repository that stores all the content and assets for a project.
